@@ -15,4 +15,4 @@
 ![](./Screenshot_3.png) Мо метавонем Html-ро бо 3 рох ба js  пайваст кунем 1.дар сахифахои алохида 2. дар даруни HTML
 
 
-> JavaScript Variables and Constants
+> JavaScript Variables and Constants.
